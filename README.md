@@ -23,7 +23,7 @@ https://r-chat-app.netlify.app/
 
 ## Installation
 
-#### Running locally
+### Running locally
 Make sure ou have Node.js and npm install.
   
   1. Clone or Download the repository
