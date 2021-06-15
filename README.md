@@ -14,6 +14,7 @@ rchat-app is a group chat application with a user friendly interface that provid
 
 ## What's Inside ?
 
+<img src="./images/signin.png" />
 <img src="./images/view.png" /> 
 
 ## Have a Look :-
