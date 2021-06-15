@@ -14,5 +14,32 @@ rchat-app is a group chat application with a user friendly interface that provid
 
 ## What's Inside ?
 
+<img src="./images/view.png" /> 
+
+## Have a Look :-
+
+https://r-chat-app.netlify.app/
+
+## Installation
+
+#### Running locally
+Make sure ou have Node.js and npm install.
+  
+  1. Clone or Download the repository
+     <pre>git clone https://github.com/PrSi007/rchat-app.git
+     $ cd rchat-app</pre>
+  
+  2. Install Dependencies
+      <pre>npm install</pre>
+      
+## Credits
+
+ 1. JavaScipt Mastery 
+ 2. Net Ninja
+
+
+      
+    
+
 
 
