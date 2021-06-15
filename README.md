@@ -16,6 +16,10 @@ rchat-app is a group chat application with a user friendly interface that provid
 
 <img src="./images/view.png" /> 
 
+## Have a Look :-
+
+https://r-chat-app.netlify.app/
+
 ## Installation
 
 #### Running locally
