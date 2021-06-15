@@ -1,6 +1,6 @@
 # Title 
 
-rchat
+RCHAT-APP
 
 ## Purpose
 
