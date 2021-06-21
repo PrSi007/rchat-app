@@ -21,6 +21,11 @@ rchat-app is a group chat application with a user friendly interface that provid
 
 https://r-chat-app.netlify.app/
 
+Sample credentials -
+
+  1. Username - Viabreon
+  2. Password - 123
+
 ## Installation
 
 ### Running locally
